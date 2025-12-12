@@ -1,8 +1,10 @@
 # Schrodinger-equation(Quantum mechanics)
 The Schrodinger equation is the fundamental equation of quantum mechanics that describes how the quantum state(wave function) of a physical system evolves with time.
 Two types of Schrodinger equation:
-(i) Time-dependent Schrödinger Equation(TDSE)
+(i)  Time-dependent Schrödinger Equation(TDSE)
 (ii) Time-independent Schrödinger Equation(TISE)
+
+Author - Ujjwal Kumar Puri
 
 # Code
 
